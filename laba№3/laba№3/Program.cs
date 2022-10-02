@@ -15,14 +15,11 @@ namespace laba_3
 
             if (true)
             {
-                a = n % 10;
-                Console.WriteLine(a + "= чило а");
+                a = n % 10;    
                 n /= 10;
                 b = n % 10;
-                Console.WriteLine(b + "= чило b");
                 n /= 10;
                 c = n % 10;
-                Console.WriteLine(c + "= чило c");
                 n /= 10;
 
                 bool x = (a != b && a != c && a != n && b != n && c != n);
