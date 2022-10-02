@@ -1,0 +1,7 @@
+D:\Program files\C# Проекти\laba№2\laba№2\bin\Debug\laba№2.exe.config
+D:\Program files\C# Проекти\laba№2\laba№2\bin\Debug\laba№2.exe
+D:\Program files\C# Проекти\laba№2\laba№2\bin\Debug\laba№2.pdb
+D:\Program files\C# Проекти\laba№2\laba№2\obj\Debug\laba№2.csproj.AssemblyReference.cache
+D:\Program files\C# Проекти\laba№2\laba№2\obj\Debug\laba№2.csproj.CoreCompileInputs.cache
+D:\Program files\C# Проекти\laba№2\laba№2\obj\Debug\laba№2.exe
+D:\Program files\C# Проекти\laba№2\laba№2\obj\Debug\laba№2.pdb
