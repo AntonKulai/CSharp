@@ -1,7 +1,0 @@
-D:\Program files\C# Проекти\repository\laba№3\laba№3\bin\Debug\laba№3.exe.config
-D:\Program files\C# Проекти\repository\laba№3\laba№3\bin\Debug\laba№3.exe
-D:\Program files\C# Проекти\repository\laba№3\laba№3\bin\Debug\laba№3.pdb
-D:\Program files\C# Проекти\repository\laba№3\laba№3\obj\Debug\laba№3.csproj.AssemblyReference.cache
-D:\Program files\C# Проекти\repository\laba№3\laba№3\obj\Debug\laba№3.csproj.CoreCompileInputs.cache
-D:\Program files\C# Проекти\repository\laba№3\laba№3\obj\Debug\laba№3.exe
-D:\Program files\C# Проекти\repository\laba№3\laba№3\obj\Debug\laba№3.pdb
