@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,9 +22,16 @@ namespace Practice2
 
             for (int k = nn; k < nk; k++)
             {
-                sum += (Math.Pow(k,2)-3)/(Math.Pow(k,2)-(Math.Pow(-1,k)*k+3));
+                if (0 <= nn && nn <= nk)
+                {
+                    sum += (Math.Pow(k, 2) - 3) / (Math.Pow(k, 2) - (Math.Pow(-1, k) * k + 3));
+                }
+                else
+                {
+                    Console.WriteLine("Помилка");
+                    return;
+                }
             }
-
             Console.WriteLine(sum);
 
 
