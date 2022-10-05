@@ -22,7 +22,7 @@ namespace laba_3
                 c = n % 10;
                 n /= 10;
 
-                bool x = (a != b && a != c && a != n && b != n && c != n);
+                bool x = ((a != b && a != c && a != n && b != n && c != n && b != c && b != a && c != a && c != b);
                 if (x == true)
                 {
                     Console.WriteLine("Всі цифри в числі - різні");
